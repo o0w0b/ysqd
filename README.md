@@ -1,7 +1,7 @@
  <h2 align="center">原神启动</h2>
 
 ### Access here:
-- https://site.o0w0b.top
+- https://ysqd.o0w0b.top
 
 ---
 ### Original project:

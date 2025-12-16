@@ -1,4 +1,4 @@
- <h2 align="center">原神启动</h2>
+ <h2 align="center">仿原神启动网页</h2>
 
 ### Access here:
 - https://ysqd.o0w0b.top
